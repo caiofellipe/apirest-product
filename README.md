@@ -1,1 +1,1 @@
-# apirest-product
+# apirest-registration-products
