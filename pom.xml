@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.products</groupId>
-	<artifactId>product-apirest</artifactId>
+	<artifactId>apirest-registration-products</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>apirest</name>
 	<description>Demo project for Spring Boot</description>
