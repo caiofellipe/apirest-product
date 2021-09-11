@@ -1,1 +1,1 @@
-# product-apirest
+# apirest-product
